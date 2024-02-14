@@ -22,5 +22,4 @@ public class prepareResults {
             return builder.toString();
         }
     }
-
 }
